@@ -3,3 +3,4 @@ display-pwd
 list
 way-home
 long-list
+hidden
