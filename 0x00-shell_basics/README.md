@@ -8,3 +8,4 @@ display-c-n
 creat-dir
 7-movethatfile
 delet-file
+9-firstdirdeletion
