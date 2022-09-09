@@ -7,3 +7,4 @@ hidden
 display-c-n
 creat-dir
 7-movethatfile
+delet-file
