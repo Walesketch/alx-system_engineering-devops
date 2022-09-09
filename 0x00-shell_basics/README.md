@@ -6,3 +6,4 @@ long-list
 hidden
 display-c-n
 creat-dir
+7-movethatfile
