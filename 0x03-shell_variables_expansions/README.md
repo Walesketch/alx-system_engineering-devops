@@ -11,3 +11,4 @@ prints the result of POWER divided by DIVIDE
 displays the result
 converts a number from base 2 to base 10
  prints all possible combinations of two letters
+13-print_float
