@@ -7,3 +7,4 @@ list-local-v
 creat-new-lv
 7-create_global_variable
 prints the result of the addition of 128
+prints the result of POWER divided by DIVIDE
