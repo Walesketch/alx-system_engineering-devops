@@ -4,3 +4,4 @@ print-all-user
 chang-owner
 creat-empty
 5-execute
+6-multiple_permissions
