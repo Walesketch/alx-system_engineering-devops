@@ -1,1 +1,2 @@
 create-alias
+say-hello
